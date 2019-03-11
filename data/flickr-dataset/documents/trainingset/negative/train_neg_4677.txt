@@ -1,0 +1,1 @@
+stripping oregano aka stemming
